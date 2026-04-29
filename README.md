@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 - 🎓 B.Tech CSE @ IIIT Delhi (2021–2025)
-- 🏥 Technical Lead @ HCLTech (GE Healthcare POC)
+- 🏥 Technical Lead @ HCLTech
 - 🧠 Data Scientist Intern @ CosyLab
 - 🔬 Interested in AI Systems, Distributed Systems & Full Stack Engineering
 - ⚙️ Strong in C++, System Design, Microservices & ML Pipelines
